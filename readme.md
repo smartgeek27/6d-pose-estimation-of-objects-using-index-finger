@@ -24,3 +24,4 @@ https://tfhub.dev/google/lite-model/movenet/singlepose/lightning/3
 ARuco documentation
 https://docs.opencv.org/4.x/d5/dae/tutorial_aruco_detection.html
 
+"# pointing_finger_project" 
