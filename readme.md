@@ -4,7 +4,7 @@ Libraries:
 1. tensorflow 2.8.0
 2. tensorflow hub     0.12.0
 3. pyrealsense2
-4. opencv-python 4.5.3.56
+4. opencv-contrib - python ( Aruco comes inbuilt)
 5. aruco 
 6. numpy
 
