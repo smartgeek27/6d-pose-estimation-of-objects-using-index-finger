@@ -1,4 +1,4 @@
-This is a code for running point finger project in which a 3d object plane is identified and if the finger points towards the plane it should change its colour.
+6d pose estimation of a object in realtime using aruco tags and if the finger points towards the plane it should change its colour. Here is the working video of the implementation. 
 
 Libraries:  
 1. tensorflow 2.8.0
