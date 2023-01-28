@@ -1,4 +1,4 @@
-6d pose estimation of a object in realtime using aruco tags and if the finger points towards the plane it should change its colour. Here is the working video of the implementation. 
+6d pose estimation of a object in realtime using aruco tags and if the finger points towards the plane it should change its colour. 
 
 Libraries:  
 1. tensorflow 2.8.0
@@ -16,11 +16,14 @@ Files
 
 How to run:
 Run the pointing_finger.py after installing all the libraries in a virtual atmosphere. 
-The file is a well documented and commented script having functions, impo
+The file is a well documented and commented script having functions.
+
+
+Here is the working video of the implementation. 
 
 https://user-images.githubusercontent.com/87424679/215288716-8b43db58-3066-4b73-a821-ac2e2774281b.mp4
 
-rts and everything. 
+
 
 Important links:
 Pretrained model
