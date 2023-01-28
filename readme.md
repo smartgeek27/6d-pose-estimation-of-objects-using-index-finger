@@ -16,7 +16,11 @@ Files
 
 How to run:
 Run the pointing_finger.py after installing all the libraries in a virtual atmosphere. 
-The file is a well documented and commented script having functions, imports and everything. 
+The file is a well documented and commented script having functions, impo
+
+https://user-images.githubusercontent.com/87424679/215288716-8b43db58-3066-4b73-a821-ac2e2774281b.mp4
+
+rts and everything. 
 
 Important links:
 Pretrained model
